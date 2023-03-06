@@ -1,0 +1,60 @@
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\bin\Debug\BlokGraf.exe.config
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\bin\Debug\BlokGraf.exe
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\bin\Debug\BlokGraf.pdb
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.csprojAssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.Form1.resources
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.Properties.Resources.resources
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.csproj.GenerateResource.cache
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.exe
+C:\Users\Korisnik\Source\Repos\BlokGraf\BlokGraf\obj\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\bin\Debug\BlokGraf.exe.config
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\bin\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\bin\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.Form1.resources
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.Properties.Resources.resources
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.csproj.GenerateResource.cache
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\programs\Za ejsia\BlokGraf\obj\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\bin\Debug\BlokGraf.exe.config
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\bin\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\bin\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.Form1.resources
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.Properties.Resources.resources
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.GenerateResource.cache
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\programs\Graf\BlokGraf\obj\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\Graf\BlokGraf\bin\Debug\BlokGraf.exe.config
+C:\Users\acolj\Desktop\Graf\BlokGraf\bin\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\Graf\BlokGraf\bin\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.Form1.resources
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.Properties.Resources.resources
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.GenerateResource.cache
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\Graf\BlokGraf\obj\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\bin\Debug\BlokGraf.exe.config
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\bin\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\bin\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.Form1.resources
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.Properties.Resources.resources
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.GenerateResource.cache
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\other\Graf\BlokGraf\obj\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\bin\Debug\BlokGraf.exe.config
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\bin\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\bin\Debug\BlokGraf.pdb
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.AssemblyReference.cache
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.Form1.resources
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.Properties.Resources.resources
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.GenerateResource.cache
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.exe
+C:\Users\acolj\Desktop\other\Maturski\Graf\BlokGraf\obj\Debug\BlokGraf.pdb
